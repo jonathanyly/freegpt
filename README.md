@@ -24,7 +24,7 @@ The extension intercepts all `/conversation` requests at the network level, repl
 
 ## usage
 
-1. go to `chatgpt.com/en-EN/translation` (or any translate page)
+1. go to `[chatgpt.com/en-EN/translation](https://chatgpt.com/en-EN/translate/)` (or any translate page)
 2. the custom UI will replace the translator interface
 3. click the settings icon to change model and prompts
 4. start chatting
